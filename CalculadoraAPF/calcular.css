@@ -1,0 +1,46 @@
+.row{
+margin-top: 0%;
+margin-right: 0%;
+margin-left: 1rem;
+}
+
+.mb-3{
+    margin-left: 1.5rem;
+    margin-top: 20rem;
+    justify-content: center;
+}
+
+.container-nav{
+    padding-right: 0%;
+    padding-left: 0%;
+    margin-right: 0%;
+    margin-left: 1.5rem;
+}
+
+.row-cols-md-3>*{
+    width: 40%;
+}
+
+.w-100{
+    margin-top: 1.5rem;
+}
+
+.col-md-6{
+    width:80%;
+}
+
+.col-md-5{
+    width: 20%;
+}
+
+.col-md-4{
+    width: 20%;
+}
+
+.fw-normal {
+    font-weight: 300!important;
+}
+
+body{
+    background-image: url(https://wallpaperaccess.com/full/358836.jpg);
+}

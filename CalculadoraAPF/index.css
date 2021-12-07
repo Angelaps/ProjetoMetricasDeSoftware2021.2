@@ -1,0 +1,22 @@
+.btn-primary {
+    filter: brightness(100);
+}
+
+.btn-primary:hover {
+    filter: blur(0);
+}
+
+.container-nav{
+    padding-right: 0%;
+    padding-left: 0%;
+    margin-right: 0%;
+    margin-left: 1.5rem;
+}
+
+body{
+    background-image: url(https://wallpaperaccess.com/full/358836.jpg);
+}
+
+.py-5{
+    padding-top: 20rem!important;
+}
