@@ -1,9 +1,14 @@
 .btn-primary {
-    filter: brightness(100);
+    filter: opacity(0%);
+    background-color: #212529;
+    border-color: #212529;
 }
 
 .btn-primary:hover {
-    filter: blur(0);
+    filter: opacity(100%);
+    transition: all 0.3s ease-in;
+    background-color: #212529;
+    border-color: #212529;
 }
 
 .container-nav{
